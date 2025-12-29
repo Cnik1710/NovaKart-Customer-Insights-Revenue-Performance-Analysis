@@ -1,4 +1,4 @@
-# FlexFit-Health--Activity-Wellness-Analysis
+# NovaKart – Customer Insights & Revenue Performance Analysis
  ---
 ## 🎯 Objective
 Analyze and interpret **Novakart’s customers, products & purchases data** to uncover actionable insights that drive **user engagement, product optimization, targeted marketing, inventory planning, and regional focus**.
@@ -129,10 +129,10 @@ This project analyzes customer-level sales data to understand purchasing behavio
 ---
  
 ## 🖥️ Dashboard Overview
-### Engagement Overview
+### Customer & Location Insights
 ![image_alt](https://github.com/Cnik1710/NovaKart-Customer-Insights-Revenue-Performance-Analysis/blob/0fdb0d29c71a06316ba4fb7601985e544fc41316/07.%20NovaKart%20%E2%80%93%20Customer%20Insights%20%26%20Revenue%20Performance%20Analysis%20(1)%20Dashboard.png)
 
-### Activity Performance
+### Product & Company Insights
 ![image_alt](https://github.com/Cnik1710/NovaKart-Customer-Insights-Revenue-Performance-Analysis/blob/0fdb0d29c71a06316ba4fb7601985e544fc41316/08.%20NovaKart%20%E2%80%93%20Customer%20Insights%20%26%20Revenue%20Performance%20Analysis%20(2)%20Dashboard.png)
 
 ---

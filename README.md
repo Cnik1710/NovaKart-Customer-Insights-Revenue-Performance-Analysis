@@ -1,5 +1,4 @@
 # NovaKart – Customer Insights & Revenue Performance Analysis
- ---
 ## 🎯 Objective
 Analyze and interpret **Novakart’s customers, products & purchases data** to uncover actionable insights that drive **user engagement, product optimization, targeted marketing, inventory planning, and regional focus**
 ### **Project Purpose:**

@@ -64,7 +64,7 @@ Analyze and interpret **Novakart’s customers, products & purchases data** to u
 ---
         
 ## 📈 Methodology & Analysis  
-### **Prepare, Process & Analytical Approach:**
+### **Preparation, Process & Analytical Approach:**
   * **Data Preparation & Cleaning:**
     * Removed invalid and "N/A" category values
     * Standardized categorical fields (Gender, City, State, Month)

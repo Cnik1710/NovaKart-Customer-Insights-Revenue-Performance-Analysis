@@ -1,11 +1,11 @@
 # NovaKart – Customer Insights & Revenue Performance Analysis
  ---
 ## 🎯 Objective
-Analyze and interpret **Novakart’s customers, products & purchases data** to uncover actionable insights that drive **user engagement, product optimization, targeted marketing, inventory planning, and regional focus**.
+Analyze and interpret **Novakart’s customers, products & purchases data** to uncover actionable insights that drive **user engagement, product optimization, targeted marketing, inventory planning, and regional focus**
 ### **Project Purpose:**
-  * To analyze customer behavior, revenue, and profit trends for **NovaKart**, an e-commerce retail dataset.
-  * To identify **high-performing customer segments, geographies, products and time periods**.
-  * To convert raw transactional data into **actionable business insights**.
+  * To analyze customer behavior, revenue, and profit trends for **NovaKart**, an e-commerce retail dataset
+  * To identify **high-performing customer segments, geographies, products and time periods**
+  * To convert raw transactional data into **actionable business insights**
 ### **Key KPIs:**
   * **Total Customers:** 997
   * **Total Revenue:** 2.96M
